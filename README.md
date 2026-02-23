@@ -1,4 +1,4 @@
-# ────⊱◈Conta Certa ◈⊰────
+<h1 align="center"> ────⊱◈Conta Certa ◈⊰──── </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white" />
